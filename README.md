@@ -10,6 +10,7 @@ Please [edit this README](https://github.com/CampusChampions/markdown-intro/edit
  - [Marisa Brazil](https://github.com/luvs2run) ([XSEDE](https://xsede.org) / [Purdue University](https://www.purdue.edu/)) - brazil@purdue.edu
  - [Jacob Pessin](https://github.com/jpessin) ([Albert Einstein College of Medicine](http://www.einstein.yu.edu/)) - Jacob.Pessin@einstein.yu.edu
  - [Aaron Culich](https://github.com/aculich/) ([UC Berkeley](https://www.berkeley.edu/)) - aculich@berkeley.edu
+ - [Diego Menéndez](https://github.com/dfmenendez) ([Penn State](https://ics.psu.edu/)) - dmenendez@psu.edu
 
 ## Existing Online Tutorials
 
