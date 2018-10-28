@@ -2,6 +2,7 @@
 
 This guide is inspired by GitHub's "Mastering Markdown" Guide, found [here](https://guides.github.com/features/mastering-markdown/).
 
+> &#9888; Note: this is a draft, and, as such, may contain errors.
 
 ## Background
 
