@@ -1,4 +1,4 @@
-# markdown-intro
+# Markdown Intro
 Intro to Markdown for the Campus Champions community
 
 ## Contributors
