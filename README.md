@@ -1,6 +1,19 @@
 # Markdown Intro
 Intro to Markdown for the Campus Champions community
 
+## Agenda/Schedule
+
+| Time         | Description                         |
+|--------------|-----------------------------------------------------------------------------------------|
+| :00 -  5 min | Diego: Intro to writing in Markdown, survey of Markdown flavors                         |
+| :05 - 10 min | Jacob: demo Markdown with Ask.ci (live example question)                                |
+| :15 - 10 min | Wendi: Markdown as a community tool (GitHub - README.md, Wikis, GH-Pages, GitBook)      |
+| :25 -  5 min | Wendi: Atom (GFM, preview, save as HTML/pdf)                                            |
+| :30 -  5 min | Aaron: Markdown with email https://markdown-here.com/                                   |
+| :35 -  5 min | Aaron: Markdown and what’s possible, playing nice with LateX, HTML, ReStructuredText... |
+| :40 -  5 min | Aaron: pandoc demo                                                                      |
+| :45          | All: Q&A, discussion                                                                    |
+
 ## Contributors
 
 Please [edit this README](https://github.com/CampusChampions/markdown-intro/edit/master/README.md) and submit a Pull Request **OR** send your github username to aculich+cc@berkeley.edu to request being added as a collaborator on this repo.
